@@ -6,8 +6,10 @@ Herramienta para ver animé desde la línea de comandos, con subtitulos en espa�
 
 	# Ver animé
 	anicli-es <query>
-	
-![Usage](./anicli-es.gif)
+
+<p align="center">
+  <img src="./anicli-es.gif" alt="usage" />
+</p>
 	
 ## Instalación
 
